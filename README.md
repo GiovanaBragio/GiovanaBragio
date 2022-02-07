@@ -1,7 +1,7 @@
 # Olá, I'm Giovana Bragio 
 ![](https://visitor-badge.laobi.icu/badge?page_id=GiovanaBragio.GiovanaBragio) [![Github](https://img.shields.io/github/followers/GiovanaBragio?label=Follow&style=radical)](https://github.com/GiovanaBragio)
 
-👨‍💻I'm an TI Tech by CEFET-MG!
+👨‍💻I'm an IT technician by CEFET-MG!
 
 📍I'm from Brazil e I live at Belo Horizonte - MG
 
@@ -37,8 +37,8 @@
 ## 🏆 My GitHub Stats:
 <p align="center" dir="auto">
   <a href="https://github.com/tassiotfc">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanaBragio&theme=radical&show_icons=true" style="max-width: 50%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanaBragio&theme=radical&show_icons=true">
     </a>
-  <img height="180em" max-width: "50%;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GiovanaBragio&layout=compact&langs_count=8&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GiovanaBragio&layout=compact&langs_count=8&theme=radical&include_all_commits=true&count_private=true"/>
 </p> 
 
