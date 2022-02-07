@@ -1,4 +1,4 @@
-# Olá, I'm Giovana Bragio 
+# Hello, I'm Giovana Bragio 
 ![](https://visitor-badge.laobi.icu/badge?page_id=GiovanaBragio.GiovanaBragio) [![Github](https://img.shields.io/github/followers/GiovanaBragio?label=Follow&style=radical)](https://github.com/GiovanaBragio)
 
 👨‍💻I'm an IT technician by CEFET-MG!
