@@ -3,9 +3,9 @@
 
 👨‍💻I'm an IT technician by CEFET-MG!
 
-📍I'm from Brazil e I live at Belo Horizonte - MG
+📍I'm from Brazil and I live at Belo Horizonte - MG
 
-🚀 I am currently looking for an internship in the Information Technology area, in order to start my career in the job market.  
+🚀 I am currently I working with Software Developmentat at DTI Digital.   
  
  ## ✉️Find me on:
  <p align="center">
