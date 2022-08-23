@@ -16,10 +16,6 @@
 <a href="mailto:giovanacaroba@hotmail.com" alt="email" target="_blank">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:giovanacaroba@hotmail.com" />
 </a>
-
-<a href="https://wa.me/5531985847870" alt="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5531985847870"/>
-</a>
 </p>
 
 
