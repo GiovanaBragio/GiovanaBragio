@@ -14,7 +14,7 @@
 </a>
 
 <a href="mailto:giovanacaroba@hotmail.com" alt="email" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:giovanacaroba@hotmail.com" />
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:giovanabragio@outlook.com" />
 </a>
 </p>
 
