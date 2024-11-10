@@ -5,7 +5,7 @@
 
 📍I'm from Brazil and I live at Belo Horizonte - MG
 
-🚀 I am currently I working with ForntEnd Development at Tellus Company.   
+🚀 I am currently I study design in Univesity Center Una.   
  
  ## ✉️Find me on:
  <p align="center">
