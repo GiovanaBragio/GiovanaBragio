@@ -36,8 +36,8 @@
 ## 🏆 My GitHub Stats:
 <p align="center" dir="auto">
   <a href="https://github.com/GiovanaBragio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanaBragio&theme=radical&show_icons=true">
-    </a>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GiovanaBragio&layout=compact&langs_count=8&theme=radical&include_all_commits=true&count_private=true"/>
-</p> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanaBragio&theme=radical&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400">
+  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaBragio&layout=compact&langs_count=10&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+</p>
 
