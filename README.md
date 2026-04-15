@@ -5,18 +5,22 @@
 
 📍I'm from Brazil and I live at Belo Horizonte - MG
 
-🚀 I am currently I study design in Univesity Center Una.   
+🚀 I am currently I study design in Universidade Federal de Minas Gerais - UFMG.   
  
  ## ✉️Find me on:
  <p align="center">
- <a href="https://www.linkedin.com/in/giovana-caroba-bragio/" alt="linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/giovana-caroba-bragio/">
-</a>
-
-<a href="mailto:giovanacaroba@hotmail.com" alt="email" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:giovanabragio@outlook.com" />
-</a>
-</p>
+  <a href="https://www.linkedin.com/in/giovana-caroba-bragio/" alt="linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/giovana-caroba-bragio/">
+  </a>
+ 
+  <a href="mailto:giovanacaroba@hotmail.com" alt="email" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:giovanabragio@outlook.com" />
+  </a>
+  
+  <a href="https://www.behance.net/giovana_bragio" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+ </p>
 
 
 ## 🧰 Languages and Tools:
